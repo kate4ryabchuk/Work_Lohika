@@ -1,0 +1,26 @@
+{
+  "name": "lohika2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ryabchuk Ekaterina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kate4ryabchuk/Work_Lohika.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kate4ryabchuk/Work_Lohika/issues"
+  },
+  "homepage": "https://github.com/kate4ryabchuk/Work_Lohika#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "create-react-app": "^1.5.2",
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
